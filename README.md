@@ -32,4 +32,4 @@ De help desk waar ik zat had 3 nieuwe cases vandaag en hadden er 4 opgelost. Ze 
 
 - Verschil tussen team viewer en Microsoft NAV?
 
- <img src="images/maxresdefault.jpg" height="300" width="500">
+ <img src="images/maxresdefault.jpg">

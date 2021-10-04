@@ -32,4 +32,6 @@ De help desk waar ik zat had 3 nieuwe cases vandaag en hadden er 4 opgelost. Ze 
 
 - Verschil tussen team viewer en Microsoft NAV?
 
- <img src="images/maxresdefault.jpg">
+ <img src="images/TCOG.jpg">
+
+ *Ik was vergeten een foto te nemen van de buitenkant dus heb ik ze van deze [link](https://www.tcog.be/over-ons/) genomen*

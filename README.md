@@ -18,7 +18,7 @@ Ik kreeg een rondleiding en vond hun manier van werken slim bedacht, de programm
 
 Het was een rustige dag, maar voor de programmeurs was het deze morgent wel druk. Het bedrijf [Acco](https://acco.be/) had een ***data-communicatie probleem*** waardoor de bestellingen van studenten niet door naar de volgende fase geraakte, gelukkig begon het in de middag vlotter te gaan, maar het is nog altijd niet opgelost.
 
-De help desk waar ik zat had 3 nieuwe cases vandaag en hadden er 4 opgelost. Ze vertelde me dat ze gemiddeld 8 cases hebben, maar vandaag was het dus een rustige dag.
+De helpdesk waar ik zat had 3 nieuwe cases vandaag en hadden er 4 opgelost. Ze vertelde me dat ze gemiddeld 8 cases hebben, maar vandaag was het dus een rustige dag.
 
 ***Mijn vragen voor morgen zullen zijn:***
 

@@ -1,4 +1,12 @@
+
+<img src="images/tcog-logo.svg">
+
+<br>
+
 # Dagverslagen
+* [Dagverslag 1](#2021-10-04)
+* [Dagverslag 2](#2021-10-05)
+* [Dagverslag 3](#2021-10-06)
 ## ***Dagverslag 1***
 
 <hr>
@@ -86,4 +94,32 @@ In de na middag, ben ik terug bij de helpdesk gaan zitten. Ik werd geïnformeerd
 - Wat is de status van Acco?
 
 - Van plan om naar GitHub ooit te gaan, inplaats DevOps?
+
+<br>
+<br>
+<br>
+
+<hr>
+
+# ***Dagverslag 3*** #
+### 2021-10-06 ###
+<hr>
+
+<br>
+
+*Vandaag ben ik de dag begonnen met een kennismaking samen met het marketing team, we hadden een kort gesprek over hoe de site gemaakt werd en hoe TCOG contact probeert te houden met hun klanten.*
+
+Ze houden contact met hun klanten door op hun site door [nieuws artikelen](https://www.tcog.be/nieuws/) over ***Business Central*** (om hun te overtuigen voor ene updrage te gaan) te vertalen naar het ***Nederlands*** en [webinairs](https://nl.wikipedia.org/wiki/Webinar) te maken. De marketing zijn ook dezelfde mensen die de pakjes voor klanten maken. <br>
+Na dit hebben we vlak voor de middag een meeting gehad met ***een van oprichters van TCOG***, hij deed de financiering en IT. Natuurlijk was ik er voor de IT, hij was gespecialiseerd in [Azure](https://azure.microsoft.com/nl-nl/) en [Power BI](https://powerbi.microsoft.com/nl-nl/). Hij deed een zeer gedetailleerde uitleg van **1 uur** hierover! 
+
+***foto van meeting*** 
+
+Na de zeer informatieve voormiddag, kwam een van de programmeurs naar beneden. We hebben samen ***2 uur uitleg gekregen*** over wat hij aan het doen was en beantwoorde heel gedetailleerde de vragen die ik had. <br>
+Hij schreef in [AL](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-programming-in-al) en werkte hier al mee voor 2 jaar.
+Hij gaf ook uitleg hoe hij bij het TCOG was geraakt, je kunt er starten met een beetje basis van IT, maar moet je wel 6 maanden een self-cursus doen.
+
+***foto code***
+
+> foto's staan ergens waar ik momenteel even niet meer aan kan geraken...
+
 

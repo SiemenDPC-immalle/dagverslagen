@@ -7,6 +7,7 @@
 * [Dagverslag 1](#2021-10-04)
 * [Dagverslag 2](#2021-10-05)
 * [Dagverslag 3](#2021-10-06)
+* [Dagverslag 4](#2021-10-07)
 ## ***Dagverslag 1***
 
 <hr>
@@ -42,7 +43,7 @@ De helpdesk waar ik zat had 3 nieuwe cases vandaag en hadden er 4 opgelost. Ze v
 
  <img src="images/TCOG.jpg">
 
- *Ik was vergeten een foto te nemen van de buitenkant dus heb ik ze van deze [link](https://www.tcog.be/over-ons/) genomen*
+ > Ik was vergeten een foto te nemen van de buitenkant dus heb ik ze van deze [link](https://www.tcog.be/over-ons/) genomen
 
 <br>
 <br>
@@ -78,14 +79,14 @@ In de na middag, ben ik terug bij de helpdesk gaan zitten. Ik werd geïnformeerd
 
 <img src = "images/CoConcept.jpg">
 
-*Het kantoor van Co Concept*
+> Het kantoor van Co Concept
 
 <br>
 <br>
 
 <img src="images/gesprek.jpg">
 
-*plaats waar we het gesprek hebben gehad met de programmeur over [Azure](https://azure.microsoft.com/nl-nl/) en [DevOps](https://azure.microsoft.com/nl-nl/overview/what-is-devops/)*
+> plaats waar we het gesprek hebben gehad met de programmeur over [Azure](https://azure.microsoft.com/nl-nl/) en [DevOps](https://azure.microsoft.com/nl-nl/overview/what-is-devops/)
 
 <br>
 
@@ -109,17 +110,53 @@ In de na middag, ben ik terug bij de helpdesk gaan zitten. Ik werd geïnformeerd
 
 *Vandaag ben ik de dag begonnen met een kennismaking samen met het marketing team, we hadden een kort gesprek over hoe de site gemaakt werd en hoe TCOG contact probeert te houden met hun klanten.*
 
+<br>
+
 Ze houden contact met hun klanten door op hun site door [nieuws artikelen](https://www.tcog.be/nieuws/) over ***Business Central*** (om hun te overtuigen voor ene updrage te gaan) te vertalen naar het ***Nederlands*** en [webinairs](https://nl.wikipedia.org/wiki/Webinar) te maken. De marketing zijn ook dezelfde mensen die de pakjes voor klanten maken. <br>
 Na dit hebben we vlak voor de middag een meeting gehad met ***een van oprichters van TCOG***, hij deed de financiering en IT. Natuurlijk was ik er voor de IT, hij was gespecialiseerd in [Azure](https://azure.microsoft.com/nl-nl/) en [Power BI](https://powerbi.microsoft.com/nl-nl/). Hij deed een zeer gedetailleerde uitleg van **1 uur** hierover! 
 
-***foto van meeting*** 
+<img src="images/meeting.jpg" width="40%" height="40%">
+
+
+> Meeting met Peter Bertels, een van de oprichters
+
+<br>
+<br>
 
 Na de zeer informatieve voormiddag, kwam een van de programmeurs naar beneden. We hebben samen ***2 uur uitleg gekregen*** over wat hij aan het doen was en beantwoorde heel gedetailleerde de vragen die ik had. <br>
 Hij schreef in [AL](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-programming-in-al) en werkte hier al mee voor 2 jaar.
 Hij gaf ook uitleg hoe hij bij het TCOG was geraakt, je kunt er starten met een beetje basis van IT, maar moet je wel 6 maanden een self-cursus doen.
 
-***foto code***
+<img src="images/Code.jpg">
 
-> foto's staan ergens waar ik momenteel even niet meer aan kan geraken...
+> Samen bezig aan de code met de programmeur waar ik bij zat
+
+<br>
+
+***Mijn vragen voor morgen zullen zijn:***
 
 
+- Acco status
+
+
+
+<br>
+<br>
+<br>
+
+<hr>
+
+# ***Dagverslag 4*** #
+### 2021-10-07 ###
+<hr>
+
+<br>
+
+*Het was vandaag enrom rustig op de helpdesk, met dat bedoel ik dan ook dat we 0 "cases" hadden. Ik heb vooral geprobeert wat meer vragen te stellen en wat gewerkt aan een zelf studie.*
+
+<br>
+
+We hebben veel zelf studie moeten doen wat niet erg was, want ik leer en meer over wat ze aan het doen zijn en ik kan dan beter meevolgen als er een case is. <br>
+In de namiddag hebben we een gesprek gehad met een programmeur die vroeger in een groote bedrijf heeft gewerkt, maar overgeshakelt is naar het TCOG. Zijn uitleg was zeer interessant.
+
+> foto's en opmaak komt nog...

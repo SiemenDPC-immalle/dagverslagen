@@ -8,6 +8,8 @@
 * [Dagverslag 2](#2021-10-05)
 * [Dagverslag 3](#2021-10-06)
 * [Dagverslag 4](#2021-10-07)
+* [Dagverslag 5](#2021-10-08)
+
 ## ***Dagverslag 1***
 
 <hr>
@@ -28,6 +30,8 @@ Ik kreeg een rondleiding en vond hun manier van werken slim bedacht, de programm
 Het was een rustige dag, maar voor de programmeurs was het deze morgent wel druk. Het bedrijf [Acco](https://acco.be/) had een ***data-communicatie probleem*** waardoor de bestellingen van studenten niet door naar de volgende fase geraakte, gelukkig begon het in de middag vlotter te gaan, maar het is nog altijd niet opgelost.
 
 De helpdesk waar ik zat had 3 nieuwe cases vandaag en hadden er 4 opgelost. Ze vertelde me dat ze gemiddeld 8 cases hebben, maar vandaag was het dus een rustige dag.
+
+<br>
 
 ***Mijn vragen voor morgen zullen zijn:***
 
@@ -160,3 +164,24 @@ We hebben veel zelf studie moeten doen wat niet erg was, want ik leer en meer ov
 In de namiddag hebben we een gesprek gehad met een programmeur die vroeger in een groote bedrijf heeft gewerkt, maar overgeshakelt is naar het TCOG. Zijn uitleg was zeer interessant.
 
 > foto's en opmaak komt nog...
+
+<br>
+<br>
+<br>
+
+<hr>
+
+# ***Dagverslag 5*** #
+### 2021-10-08 ###
+<hr>
+
+<br>
+
+De laatste dag bij TCOG begon met ik en Thomas die voor de werknemers chocolades had gekocht, daarna namen ze een foto van ons ze stuurde zo een mail naar heel het bedrijf dat we ze bedankte!
+
+Terug naar de IT, vandaag had ik veel bij geleerd over de essentiële behoefte van powershell in de server management van het bedrijf. Ik heb hiervan meer dan 4 uur uitleg over gekregen! Hierna werden onze notities nog nagekeken door dezelfde persoon waar we de uitleg over gekregen hadden en met die info kan ik nu verder opweeg voor mijn case studie. 
+Het was een geweldige ervaring om een bedrijf eens mogen mee te volgen en voelde me er direct welkom van het moment dat ik aankwam, tot het einde! 
+
+Zelf gaat het een moeilijke keuze worden of ik er later nog eens een stage ga doen, omdat ze vooral niet op 1 ding focussen, maar heel uitgebreid zijn, niemand doet maar 1 dezelfde job. Voor mij zou dit dan niet ideaal zijn, omdat ik zeer geintereseerd ben in programmeren zelf, maar wie weet veranderd mijn mening ooit nog.
+
+> opmaak en foto's komen nog...

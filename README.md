@@ -160,10 +160,13 @@ Hij gaf ook uitleg hoe hij bij het TCOG was geraakt, je kunt er starten met een 
 
 <br>
 
-We hebben veel zelf studie moeten doen wat niet erg was, want ik leer en meer over wat ze aan het doen zijn en ik kan dan beter meevolgen als er een case is. <br>
-In de namiddag hebben we een gesprek gehad met een programmeur die vroeger in een groote bedrijf heeft gewerkt, maar overgeshakelt is naar het TCOG. Zijn uitleg was zeer interessant.
+We hebben veel zelf studie moeten doen wat niet erg was, want ik leer en meer over wat ze aan het doen zijn en ik kan dan beter meevolgen als er een case is.
 
-> foto's en opmaak komt nog...
+In de namiddag hebben we een gesprek gehad met een programmeur die vroeger in een groote bedrijf heeft gewerkt, maar overgeshakelt is naar het TCOG. Zijn uitleg was zeer interessant. Hij maakt met een programmeertaal een app voor scanners met een Android OS, waarmee hij dan een specifieke app maakt voor een klant.
+
+<img src="images/appdev.jpg">
+
+
 
 <br>
 <br>
@@ -177,11 +180,24 @@ In de namiddag hebben we een gesprek gehad met een programmeur die vroeger in ee
 
 <br>
 
-De laatste dag bij TCOG begon met Thomas en ik die voor de werknemers chocolades had gekocht, daarna namen ze een foto van ons ze stuurde zo een mail naar heel het bedrijf dat we ze bedankte!
+*De laatste dag bij TCOG begon met Thomas en ik die voor de werknemers **chocolades** had gekocht, daarna namen ze een foto van ons ze stuurde zo een mail naar heel het bedrijf dat we ze bedankte!*
 
-Terug naar de IT, vandaag had ik veel bijgeleerd over de essentiële behoefte van Powershell in het server-management van het bedrijf. Ik heb hiervan meer dan 4 uur uitleg over gekregen! Hierna werden onze notities nog nagekeken door dezelfde persoon waar we de uitleg over gekregen hadden en met die info kan ik nu verder opweeg voor mijn case studie. 
+<br>
+
+Terug naar de IT, vandaag had ik veel bijgeleerd over de *essentiële* behoefte van Powershell in het server-management van het bedrijf. Ik heb hiervan meer dan ***4 uur uitleg over gekregen!***
+
+Hierna werden onze notities nog nagekeken door dezelfde persoon waar we de uitleg over gekregen hadden en met die info kan ik nu verder opweeg voor mijn case studie. 
 Het was een geweldige ervaring om een bedrijf eens mogen mee te volgen en voelde me er direct welkom van het moment dat ik aankwam, tot het einde! 
 
-Zelf gaat het een moeilijke keuze worden of ik er later nog eens een stage ga doen, omdat ze vooral niet op 1 ding focussen, maar heel uitgebreid zijn, niemand doet maar 1 dezelfde job. Voor mij zou dit dan niet ideaal zijn, omdat ik zeer geintereseerd ben in programmeren zelf, maar wie weet veranderd mijn mening ooit nog.
+<br>
 
-> opmaak en foto's komen nog...
+<img src="images/Powershell.jpg">
+
+>De werkplaats van de persoon die met Powershell werkt.
+
+<br>
+
+
+<hr>
+
+*Zelf gaat het een moeilijke keuze worden of ik er later nog eens een stage ga doen, omdat ze vooral niet op 1 ding focussen, maar heel uitgebreid zijn, niemand doet maar 1 dezelfde job. Voor mij zou dit dan niet ideaal zijn, omdat ik zeer geintereseerd ben in programmeren zelf, maar wie weet veranderd mijn mening ooit nog.*
